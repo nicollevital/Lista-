@@ -17,4 +17,5 @@ Seja bem-vindo(a)! Se você chegou até aqui, está a poucos passos de aprender 
 ## 👥 Lista de Participantes
 Antônio Marcos Welinton Teixeira da Silva
 David Ruan Pereira
+Nicolle Cavalcante Vital
 ---
